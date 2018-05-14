@@ -1,0 +1,13 @@
+{
+    "id":"chicken-pomegranate-salad",
+    "name":"Chicken Pomegranate Salad",
+    "img":"chicken-pomegranate-salad.jpg",
+    "calories": 400,
+    "rating": 5,
+    "description":"This vibrant chicken salad with creamy feta and fresh mint, topped with a sprinkling of pomegranate seeds, is a wonderful meal for a hot summer's evening. A cool, crisp glass of Pinot Grigio, with its delicate citrus flavour, is a great finishing touch.",
+        "reviews": [
+            "Delicious.  I Love it",
+            "Very good",
+            "The croissant was dry"
+        ]
+}

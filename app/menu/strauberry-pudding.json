@@ -1,0 +1,13 @@
+{
+        "id": "strauberry-pudding",
+        "name": "Strauberry Pudding",
+        "img": "strauberry-pudding.jpg",
+        "calories": 300,
+        "rating": 3.1,
+        "description": "This strawberry pudding is just as good as banana pudding and made the same way except you use strawberries in the recipe instead of bananas.  We love it!  A great dessert your family and friends will enjoy.",
+        "reviews": [
+            "Delicious.  I Love it",
+            "Very good",
+            "The croissant was dry"
+        ]
+}

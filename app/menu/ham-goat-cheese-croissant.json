@@ -1,0 +1,13 @@
+    {
+        "id": "ham-goat-cheese-croissant",
+        "name": "Ham and Goat Cheese Croissant",
+        "img": "ham-goat-cheese-croissant.jpg",
+        "calories": 200,
+        "rating": 4,
+        "description":"So grilled cheese month may be long gone and it may be getting warmer outside, but that doesn’t mean you can’t still have a great cheesy sandwich, like this delicious prosciutto and goats cheese croissant with balsamic figs.",
+        "reviews": [
+            "Delicious.  I Love it",
+            "Very good",
+            "The croissant was dry"
+        ]
+    }
